@@ -1,7 +1,7 @@
-package application;
+package exercise1.application;
 
-import model.entities.Reservation;
-import model.exceptions.DomainException;
+import exercise1.model.entities.Reservation;
+import exercise1.model.exceptions.DomainException;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
